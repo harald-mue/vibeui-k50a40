@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="status_bar_accessibility_recent_apps">
-        <item quantity="other">%d screens in Overview</item>
-        <item quantity="one">1 screen in Overview</item>
+        <item quantity="other">%d Bildschirme in der Übersicht</item>
+        <item quantity="one">Ein Bildschirm in der Übersicht</item>
     </plurals>
     <plurals name="lenovo_kg_password_wrong_pin_code">
-        <item quantity="other">Incorrect %1$s PIN code, you have %2$d remaining attempts.</item>
-        <item quantity="one">Incorrect %1$s PIN code, you have %2$d remaining attempt before you must contact your carrier to unlock your device.</item>
+        <item quantity="other">Falscher %1$s PIN-Code, %2$d Versuche sind noch möglich.</item>
+        <item quantity="one">Falscher %1$s PIN-Code, %2$d Versuche sind noch möglich bevor das Gerät gesperrt wird. Diese Sperre kann nur von Ihrem Mobilfunk-Provider aufgehoben werden.</item>
     </plurals>
     <plurals name="lenovo_kg_password_wrong_puk_code">
-        <item quantity="other">Incorrect %1$s PUK code, you have %2$d remaining attempts before %1$s becomes permanently unusable.</item>
-        <item quantity="one">Incorrect %1$s PUK code, you have %2$d remaining attempt before %1$s becomes permanently unusable.</item>
+        <item quantity="other">Falscher %1$s PUK-Code, %2$d Versuche sind noch möglich bevor %1$s unbrauchbar wird.</item>
+        <item quantity="one">Falscher %1$s PUK-Code, %2$d Versuche sind noch möglich bevor %1$s unbrauchbar wird.</item>
     </plurals>
     <plurals name="kg_password_wrong_pin_code">
-        <item quantity="other">Incorrect SIM PIN code, you have %d remaining attempts.</item>
-        <item quantity="one">Incorrect SIM PIN code, you have %d remaining attempt before you must contact your carrier to unlock your device.</item>
+        <item quantity="other">Falscher SIM PIN-Code, %d Versuche sind noch möglich.</item>
+        <item quantity="one">Falscher SIM PIN-Code, %d Versuche sind noch möglich bevor Sie zum Entsperren Ihren Mobilfunk-Provider kontaktieren müssen.</item>
     </plurals>
     <plurals name="kg_password_wrong_puk_code">
-        <item quantity="other">Incorrect SIM PUK code, you have %d remaining attempts before SIM becomes permanently unusable.</item>
-        <item quantity="one">Incorrect SIM PUK code, you have %d remaining attempt before SIM becomes permanently unusable.</item>
+        <item quantity="other">Falscher SIM PUK-Code, %d Versuche sind noch möglich bevor die SIM-Karte permanent gesperrt wird.</item>
+        <item quantity="one">Falscher SIM PUK-Code, %d Versuche sind noch möglich bevor die SIM-Karte permanent gesperrt wird.</item>
     </plurals>
 </resources>
