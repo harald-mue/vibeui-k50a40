@@ -459,8 +459,8 @@ app(s) from being closed"</string>
    <string name="widget_text_brightness">Helligkeit</string>
    <string name="widget_text_mobile_data">Daten Verb.</string>
    <string name="widget_text_gps">GPS</string>
-   <string name="widget_text_airplanemode">Flugzeugm.</string>
-   <string name="is_open_airplanemode">Soll der Flugzeugmodus wirklich aktiviert werden?</string>
+   <string name="widget_text_airplanemode">Flugmodus</string>
+   <string name="is_open_airplanemode">Soll der Flugmodus wirklich aktiviert werden?</string>
    <string name="widget_text_standard">Allgemein</string>
    <string name="widget_text_mute">Stumm</string>
    <string name="widget_text_vibration">Vibration</string>
@@ -489,7 +489,7 @@ app(s) from being closed"</string>
    <string name="widget_text_rotate_off">Rotieren aus</string>
    <string name="widget_text_multWindow">Multi-wins</string>
    <string name="widget_text_apn_net">Multi-window</string>
-   <string name="airplanemode_enable">Flugzeugm.</string>
+   <string name="airplanemode_enable">Flugmodus</string>
    <string name="widget_text_night_mode">Nachtmodus</string>
    <string name="widget_text_ringer_normal">Klingelton</string>
    <string name="widget_text_ringer_silent">Stumm</string>
@@ -575,7 +575,7 @@ Battery saver turns off automatically when your device is charging."</string>
    <string name="internal_string_ext_media_nomedia_notification_message">%s entfernt. Eine Neue einlegen.</string>
    <string name="internal_string_ext_media_badremoval_notification_title">%s unerwartet entfernt</string>
    <string name="internal_string_ext_media_badremoval_notification_message">Unmount %s before removing to avoid data loss.</string>
-   <string name="internal_string_usb_storage_notification_title">USB connected</string>
+   <string name="internal_string_usb_storage_notification_title">USB verbunden</string>
    <string name="internal_string_usb_storage_notification_message">Touch to copy files to/from your computer.</string>
    <string name="internal_string_chooseUsbActivity">Choose an app for the USB device</string>
    <string name="internal_string_usb_storage_stop_title">USB storage in use</string>
@@ -586,7 +586,7 @@ Battery saver turns off automatically when your device is charging."</string>
    <string name="internal_string_dlg_confirm_kill_storage_users_text">"If you turn on USB storage, some apps you're using will stop and may be unavailable until you turn off USB storage."</string>
    <string name="internal_string_dlg_error_title">USB operation unsuccessful</string>
    <string name="internal_string_dlg_ok">OK</string>
-   <string name="internal_string_cancel">Cancel</string>
+   <string name="internal_string_cancel">Abbrechen</string>
    <string name="internal_string_usb_storage_error_message">"There's a problem using your SD card for USB mass storage."</string>
    <string name="internal_string_safe_media_volume_warning">"Raise volume above recommended level?
 
@@ -651,19 +651,19 @@ Disconnected"</string>
    <string name="msg_battery_over_voltage">Your battery is over voltage, please remove the battery!</string>
    <string name="msg_safety_timer_timeout">Charge time is too long, please disconnect the charger!</string>
    <string name="msg_battery_low_temperature">Your battery temperature is too low, please disconnect the charger!</string>
-   <string name="app_notification_priority_title">Priority</string>
+   <string name="app_notification_priority_title">Priorität</string>
    <string name="app_notification_priority_summary">Show notifications at the top of the list and keep them coming when the device is set to priority interruptions only</string>
    <string name="flashlight_notification_title">Taschenlampe deaktivieren</string>
-   <string name="flashlight_notification_text">Click to disable flashlight</string>
-   <string name="lenovo_flashlight_error_notification_title">Failed to enable flashlight</string>
+   <string name="flashlight_notification_text">Drücken um Taschenlampe zu deaktivieren</string>
+   <string name="lenovo_flashlight_error_notification_title">Taschenlampe kann nicht aktiviert werden</string>
    <string name="lenovo_flashlight_error_camera_in_use">Die Kamera wird verwendet, Taschenlampe deaktiviert</string>
    <string name="lenovo_flashlight_error_psensor_blocked">Top edge of the screen covered, unable to turn on the flashlight</string>
    <string name="lenovo_flashlight_error_low_power">Niedrige Ladestand der Batterie! Taschenlampe kann nicht aktiviert werden</string>
    <string name="lenovo_flashlight_error_power_setting">Power settings is running! Flashlight disabled</string>
    <string name="notification_log_title">Benachrichtigungs Log</string>
    <string name="notifications_off_text">Tap here to turn notifications back on.</string>
-   <string name="string_ext_media_otg_mounted_notification_title">OTG UDisk mounted.</string>
-   <string name="string_ext_media_otg_mounted_notification_message">Click to unmount.</string>
+   <string name="string_ext_media_otg_mounted_notification_title">OTG UDisk eingehängt.</string>
+   <string name="string_ext_media_otg_mounted_notification_message">Drücken um auszuhängen.</string>
    <string name="widget_text_shadow">Projector</string>
    <string name="widget_text_smartswitch">Smart Switch</string>
    <string name="accessibility_notification_log">Button notification log</string>
@@ -689,7 +689,7 @@ Disconnected"</string>
    <string name="status_bar_notification_log_filter_clear">Bereinigen</string>
    <string name="lock_screen_notifications_title">Wenn Telefon gesperrt ist</string>
    <string name="lock_screen_notifications_summary_show">Show all notification content</string>
-   <string name="lock_screen_notifications_summary_disable">"Don't show notifications at all"</string>
+   <string name="lock_screen_notifications_summary_disable">"Keine Benachrichtigungen anzeigen"</string>
    <string name="app_name">Keyguard</string>
    <string name="description_direction_right">Nach rechts wischen für %s.</string>
    <string name="description_direction_down">Nach unten wischen für %s.</string>
@@ -716,7 +716,7 @@ Disconnected"</string>
    <string name="simple_time_tip_6">I am very tired.</string>
    <string name="lenovo_lockscreen_sim_error_message_short">Ungültige %s Karte</string>
    <string name="lenovo_keyguard_sim_not_ready">%s Karte ist nicht bereit</string>
-   <string name="lenovo_keyguard_sim_airplane_mode">Flugzeugmodus</string>
+   <string name="lenovo_keyguard_sim_airplane_mode">Flugmodus</string>
    <string name="lenovo_keyguard_sim_inactive">%s Karte ist deaktiviert</string>
    <string name="lenovo_keyguard_password_enter_puk_code">Type %s PUK and new PIN code</string>
    <string name="lenovo_keyguard_password_enter_puk_prompt">%s PUK-Code</string>
@@ -903,9 +903,9 @@ Disconnected"</string>
    <string name="kg_pin_instructions">Eingabe PIN</string>
    <string name="kg_password_instructions">Eingabe Password</string>
    <string name="kg_puk_enter_puk_hint">SIM ist deaktiviert. Geben Sie Ihren PUK-Code ein, um fortzusetzen.</string>
-   <string name="kg_puk_enter_pin_hint">Enter desired PIN code</string>
-   <string name="kg_enter_confirm_pin_hint">Confirm desired PIN code</string>
-   <string name="kg_sim_unlock_progress_dialog_message">Unlocking SIM card…</string>
+   <string name="kg_puk_enter_pin_hint">Gewünschte PIN eingeben</string>
+   <string name="kg_enter_confirm_pin_hint">Gewünschte PIN nochmals eingeben</string>
+   <string name="kg_sim_unlock_progress_dialog_message">Entsperre SIM Karte...</string>
    <string name="kg_invalid_sim_pin_hint">Type a PIN that is 4 to 8 numbers.</string>
    <string name="kg_invalid_sim_puk_hint">PUK code should be 8 numbers or more.</string>
    <string name="kg_invalid_puk">Re-enter the correct PUK code. Repeated attempts will permanently disable the SIM.</string>
@@ -918,7 +918,7 @@ Disconnected"</string>
    <string name="kg_login_invalid_input">Benutzername oder Passwort falsch.</string>
    <string name="kg_login_account_recovery_hint">"Forgot your username or password?
 Visit "google.com/accounts/recovery.</string>
-   <string name="kg_login_checking_password">Checking account…</string>
+   <string name="kg_login_checking_password">Konto überprüfen...</string>
    <string name="kg_too_many_failed_pin_attempts_dialog_message"  formatted="false">"You have incorrectly typed your PIN %d times. 
 
 Try again in %d seconds."</string>

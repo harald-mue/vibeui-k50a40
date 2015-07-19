@@ -55,7 +55,7 @@
    <string name="dlg_ipo_confirm_warning">Bei einem Schnellstart wird das Telefon nicht vollständig ausgeschalten. Bitte nicht die SIM- oder Speicher-Karte entfernen!</string>
    <string name="powerOnWarning_alarm_msg">Nächster Alarm: %1$s</string>
    <string name="powerOnWarning_boot_msg">Nächstes automatisches Einschalten: %1$s</string>
-   <string name="global_actions_toggle_open_airplane_mode_confirm">Wollen Sie wirklich den Flugzeugmodus aktivieren?</string>
+   <string name="global_actions_toggle_open_airplane_mode_confirm">Wollen Sie wirklich den Flugmodus aktivieren?</string>
    <string name="shutdown_alarm_confirm">Nächstes automatisches Ausschalten: %1$s</string>
    <string name="global_action_restart">Neustart</string>
    <string name="restart_confirm_question">Wollen Sie wirklich neu starten?</string>
